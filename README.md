@@ -6,4 +6,7 @@ Play as the cat-abomination Painfield except now he is duct-taped to a car! <br 
 One exciting level! <br />
 One constantly pained character! <br />
 10 to 15 seconds of gameplay! <br />
+No Sound! <br />
+No UI! <br />
+No Exit Button! <br />
 A remaster with actual gameplay coming soon!
