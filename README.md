@@ -9,4 +9,5 @@ One constantly pained character! <br />
 No Sound! <br />
 No UI! <br />
 No Exit Button! <br />
-A remaster with actual gameplay coming soon!
+
+I created this in about year 9, keeping it public for sentimental reasons (also it's pretty funny)
